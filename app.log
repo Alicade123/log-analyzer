@@ -1,0 +1,7 @@
+2024-01-15 10:03:22 ERROR Database timeout
+2024-01-15 10:04:01 INFO Server started
+2024-01-15 10:05:10 WARNING High memory usage
+2024-01-15 10:06:15 ERROR Database timeout
+2024-01-15 10:07:30 ERROR Auth failed
+{"timestamp":"2024-01-15 10:08:00","level":"INFO","message":"Backup completed"}
+{"timestamp":"2024-01-15 10:09:00","level":"ERROR","message":"Database timeout"}
